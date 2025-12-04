@@ -8,8 +8,6 @@ public class Class1Test {
 	@Test
 	public void class1() {
  
-		Reporter.log(">>>>>EAT 5ve STAR 🍫,DO NOTHING<<<<<",true);
-		Reporter.log(">>>>>>>>>>>>>>>>OLD<<<<<<<<<<<<<<<<<",true);
 		Reporter.log(">>>>>EAT 5ve STAR 🍫,DO ANYTHING<<<<<",true);
 
 	}
